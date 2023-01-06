@@ -1,0 +1,18 @@
+{
+    "sourceFile": "resources/views/template/components/footer.blade.php",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1672824430336,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1672824430336,
+            "name": "Commit-0",
+            "content": "<footer class=\"footer\">\n    <div class=\"container container-1630\">\n        <div class=\"logo\">\n            <a href=\"index.html\">\n                        <span class=\"sr-only\">\n                    Mr. Brown - Chất bạn cần, Gu bạn thích              </span>\n            </a>\n        </div>\n        <div class=\"detail\">\n            <ul id=\"menu-menu-footer\" class=\"menu reset\">\n                <li id=\"menu-item-79\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-79\"><a href=\"http://dev1.mypagevn.com/mrbrown/lien-he/\">Liên hệ</a></li>\n                <li id=\"menu-item-78\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-78\"><a href=\"http://dev1.mypagevn.com/mrbrown/chinh-sach-bao-mat/\">Chính sách bảo mật</a></li>\n                <li id=\"menu-item-77\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-77\"><a href=\"http://dev1.mypagevn.com/mrbrown/ban-quyen/\">Bản quyền</a></li>\n            </ul>\n            <div class=\"copy\"><span>Copyright © King Car Vietnam. All Rights Reserved. </span><span class=\"design\"><a href=\"https://mypage.vn\">Thiết kế bỏi Mypage.vn</a></span></div>\n        </div>\n        <div class=\"opts\">\n            <ul class=\"social reset\">\n                <li>\n                    <a target=\"_blank\" href=\"https://www.facebook.com/MrBrownVietnam/\">\n                        <i class=\"fab fa-facebook-f\"></i>\n                    </a>\n                </li>\n                <li>\n                    <a target=\"_blank\" href=\"https://www.youtube.com/channel/UC4lcU655LPbzfI08jNF966Q\">\n                        <i class=\"fab fa-youtube\"></i>\n                    </a>\n                </li>\n            </ul>\n            <div class=\"website dropup\">\n                <button class=\"btn btn-default dropdown-toggle\" type=\"button\" id=\"dropdown-website\" data-toggle=\"dropdown\" aria-haspopup=\"true\" aria-expanded=\"true\">Family Site</button>\n                <ul id=\"menu-family-website\" class=\"dropdown-menu dropdown-menu-right\">\n                    <li id=\"menu-item-588\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-588\"><a href=\"http://www.mrbrowncoffee.com.tw/\">Mr.Brown Coffee</a></li>\n                    <li id=\"menu-item-589\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-589\"><a href=\"#\">Mr.Brown Coffee Nam Phi</a></li>\n                    <li id=\"menu-item-590\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-590\"><a href=\"#\">Mr.Brown Coffee Việt Nam</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</footer>\n"
+        }
+    ]
+}
